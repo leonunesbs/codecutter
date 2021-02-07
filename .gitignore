@@ -3,8 +3,14 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+.vscode
+.env
+
 # C extensions
 *.so
+
+# Video extensions
+*.mp4
 
 # Distribution / packaging
 .Python
